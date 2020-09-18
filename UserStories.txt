@@ -1,0 +1,21 @@
+User Perspective
+
+1) As a user, I want to be able book tickets for a film
+
+- As a user, I want to be able to select the film I wish to view from a simple dropdown of available films
+- As a user, I want to be able to select the amount of tickets I wish to purchase from a dropdown of quantity
+- As a user, I want to be able to select the ticket type I wish to purchase from a dropdown of available ticket types
+- As a user, I want to be able to select the seats I want from a diagrammatic representation of available seats in the viewing screen I have chosen
+- As a user, I wish to receive an email confirmation once I finish the ticket booking process
+
+2) As a user, I want to be able to view trailers for films
+
+- As a user, I want to be able to see an organised list of trailers for available films to view
+- As a user, I want to be able to search film trailers to find the trailer I wish to view
+- As a user, I want to be able to easily navigate to the booking system from a trailer that I liked
+
+3) As a user, I do not want my private information/data to be accessible by those without permission
+
+
+
+
