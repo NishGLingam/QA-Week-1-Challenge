@@ -61,11 +61,24 @@ U1 - As an admin, I want to be able manage permissions and access different memb
 U2 - As an admin, I want to ensure only I have access to change permissions and access
 	- A login system should be included such that only the admin can access the system to change permissions 
 	- Admin should be able create an account and reminded to keep their username and password extremely secure
+	- Ensure passwords have the strength requirement to include at least one Uppercase Letter and one Number
+
 
 ************************************************************************************************************************************************************************************************************************************************
 
 Staff Member Perspective 
 
-E1)
+U1 - As a staff member, I want to be able to find specific bookings' information
+ 	- Should be able to search through the ticket database by booking reference, name, date and film
+	- Should be able to sort ticket information by booking reference, date and film
 
-U1 - 
+U2 - As a staff member, I want to be able to create booking information
+	- Should be able to easily fill in a form to include film, ticket type, number of tickets and quantity
+	- Should be able to go into existing bookings and edit the information to change number of tickets
+	- In the case of changing booking information, the user must receive an email stating their booking has been edited
+
+U3 - As a staff member, I do not want those without permission to be able to access the booking system 
+	- Should include a login system
+	- Staff members should be reminded to keep their usernames and passwords private and extremely secure
+	- Ensure passwords have the strength requirement to include at least one Uppercase Letter and one Number
+
