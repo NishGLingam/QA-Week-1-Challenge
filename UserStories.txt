@@ -2,30 +2,30 @@ User Perspective
 
 E1) As a user, I want to be able book tickets for a film
 
-U1 - As a user, I want to be able to select the film I wish to view from a simple dropdown of available films
+U1 - As a user, I want to be able to select the film I wish to view from a simple dropdown of available films (5 days)
 	- Should be able to only see available films
 	- Should be a complete list of available films
 	- Should be sorted alphabetically
 
-U2 - As a user, I want to be able to select the ticket type I wish to purchase from a dropdown of available ticket types
+U2 - As a user, I want to be able to select the ticket type I wish to purchase from a dropdown of available ticket types (3 days)
 	- Should be able to see a complete list of available ticket types
 	- Should be able to see cost of each ticket type
 	- Should be notified of any ID/requirements for selected ticket type
 
-U3 - As a user, I want to be able to select the amount of tickets I wish to purchase from a dropdown of quantity
+U3 - As a user, I want to be able to select the amount of tickets I wish to purchase from a dropdown of quantity (3 days)
 	- Should be able to see total cost of selected quantity of tickets
 	- Should be able to easily edit quantity of tickets
 	- Should only be able to purchase a quantity up to the quantity of tickets available
 
 
-U4 - As a user, I want to be able to select the seats I want from a diagrammatic representation of available seats in the viewing screen I have chosen
+U4 - As a user, I want to be able to select the seats I want from a diagrammatic representation of available seats in the viewing screen I have chosen (5 days)
 	- Should be able to differentiate between the different types of seat (Standard, Premium, Recliner, Available, Unavailable)
 	- Should only be able to select as many seats as tickets ordered
 	- Should not be able to proceed to next screen without selecting all seats necessary
 	- Should be able to edit seat selection
 	- Should be able to click a button to randomly assign the grouped seats
 
-U5 - As a user, I wish to receive an email confirmation once I finish the ticket booking process
+U5 - As a user, I wish to receive an email confirmation once I finish the ticket booking process (3 days)
 	- Should receive an email upon receipt of payment including booking reference and other necessary booking details
 	- Should receive an email notifying them of any issues if the booking did not go through 
 	- Confirmation emails should not be sent to bookings which did not complete fully and where payment was not received
@@ -35,16 +35,16 @@ U5 - As a user, I wish to receive an email confirmation once I finish the ticket
 
 E2) As a user, I want to be able to view trailers for films
 
-U1- As a user, I want to be able to see an organised list of trailers for available films to view
+U1- As a user, I want to be able to see an organised list of trailers for available films to view (5 days)
 	- Thumbnails of all available trailers should be displayed on the trailer page
 	- Videos should be able to played in full-screen
 	- Should be able to sort the trailers A-Z, Z-A
 
-U2- As a user, I want to be able to search film trailers to find the trailer I wish to view
+U2- As a user, I want to be able to search film trailers to find the trailer I wish to view (4 days)
 	- Dropdown should appear when typing in search box, with available trailers which match what the user has typed.
 	- Search should return a complete list of results 
 
-U3 - As a user, I want to be able to easily navigate to the booking system from a trailer that I liked
+U3 - As a user, I want to be able to easily navigate to the booking system from a trailer that I liked (4 days)
 	- On the trailer page a book ticket button should be visible that takes the user to the start of the ticket booking journey
 	- At the end of the trailer video, a book tickets now button should appear
 
@@ -54,11 +54,11 @@ U3 - As a user, I want to be able to easily navigate to the booking system from 
 
 Admin Perspective
 
-U1 - As an admin, I want to be able manage permissions and access different members have
+U1 - As an admin, I want to be able manage permissions and access different members have (8 days)
 	- Should be able to login and change permission levels of different staff
 	- Should be able to have a clear overview of systems and who has access to each system
 
-U2 - As an admin, I want to ensure only I have access to change permissions and access
+U2 - As an admin, I want to ensure only I have access to change permissions and access (4 days)
 	- A login system should be included such that only the admin can access the system to change permissions 
 	- Admin should be able create an account and reminded to keep their username and password extremely secure
 	- Ensure passwords have the strength requirement to include at least one Uppercase Letter and one Number
@@ -68,16 +68,16 @@ U2 - As an admin, I want to ensure only I have access to change permissions and 
 
 Staff Member Perspective 
 
-U1 - As a staff member, I want to be able to find specific bookings' information
+U1 - As a staff member, I want to be able to find specific bookings' information ( 5 days)
  	- Should be able to search through the ticket database by booking reference, name, date and film
 	- Should be able to sort ticket information by booking reference, date and film
 
-U2 - As a staff member, I want to be able to create booking information
+U2 - As a staff member, I want to be able to create booking information ( 4 days)
 	- Should be able to easily fill in a form to include film, ticket type, number of tickets and quantity
 	- Should be able to go into existing bookings and edit the information to change number of tickets
 	- In the case of changing booking information, the user must receive an email stating their booking has been edited
 
-U3 - As a staff member, I do not want those without permission to be able to access the booking system 
+U3 - As a staff member, I do not want those without permission to be able to access the booking system (5 days)
 	- Should include a login system
 	- Staff members should be reminded to keep their usernames and passwords private and extremely secure
 	- Ensure passwords have the strength requirement to include at least one Uppercase Letter and one Number
