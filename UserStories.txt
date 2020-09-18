@@ -47,5 +47,19 @@ U2- As a user, I want to be able to search film trailers to find the trailer I w
 U3 - As a user, I want to be able to easily navigate to the booking system from a trailer that I liked
 	- On the trailer page a book ticket button should be visible that takes the user to the start of the ticket booking journey
 	- At the end of the trailer video, a book tickets now button should appear
+
+
+************************************************************************************************************************************************************************************************************************************************
 	
 
+Admin Perspective
+
+U1 - As an admin, I want to be able manage permissions and access different members have
+	- Should be able to login and change permission levels of different staff
+	- Should be able to have a clear overview of systems and who has access to each system
+
+************************************************************************************************************************************************************************************************************************************************
+
+Staff Member Perspective 
+
+E1)
