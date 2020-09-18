@@ -58,8 +58,14 @@ U1 - As an admin, I want to be able manage permissions and access different memb
 	- Should be able to login and change permission levels of different staff
 	- Should be able to have a clear overview of systems and who has access to each system
 
+U2 - As an admin, I want to ensure only I have access to change permissions and access
+	- A login system should be included such that only the admin can access the system to change permissions 
+	- Admin should be able create an account and reminded to keep their username and password extremely secure
+
 ************************************************************************************************************************************************************************************************************************************************
 
 Staff Member Perspective 
 
 E1)
+
+U1 - 
